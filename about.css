@@ -1,0 +1,69 @@
+html {
+    height: 100%;
+  }
+ body {
+     width: 100%;
+     height: 100%;
+     text-align: center;
+  }
+ #top {
+     width: 1200px; 
+     margin-left: 80px;
+     font-family: Courier, monospace;
+     font-size: 80px;
+     margin-top: 30px;
+     padding: 10px;
+     color: ghostwhite;
+     background-color: brown;
+     border-bottom-left-radius: 14px;
+     border-bottom-right-radius: 14px;
+     border-top-left-radius: 14px;
+     border-top-right-radius: 14px;
+     text-align: center;
+  }
+ header {
+     background: linear-gradient(135deg, #fdfcfb 15%, #e2d1c3 100%);
+     text-align: center;
+     padding: 5px;
+     font-family: Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 30px;
+     border-bottom-left-radius: 14px;
+     border-bottom-right-radius: 14px;
+     border-top-left-radius: 14px;
+     border-top-right-radius: 14px;
+     border: black;
+     border-width: 2px;
+     width: 1200px;
+  }
+.col1{
+    /* float: left;
+    width: 50% */
+  }
+.col2{
+    /* float: right;
+    width: 50%; */
+}
+ h2{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-kerning: 10px;
+     font-size: 30px;
+     color: darkslategrey;
+     text-align: center;
+
+ }
+ h3 {
+     font-family: courier;
+ }
+ img {
+     height: 400px;
+     width: 300px;
+     padding-left: 150px;
+     padding-right: 150px;
+  }
+  p {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 15px;
+      width: 50%;
+      text-align: center;
+      margin: auto;
+  }
